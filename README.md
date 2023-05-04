@@ -1,7 +1,7 @@
 # Whale
 
 ### Community Step 1: Base application
-1. Event registration and organizing)
+1. Event registration and organizing events
 2. Ticked holding and approving when the payment is done
 
 
