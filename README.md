@@ -5,6 +5,8 @@
 2. Ticked holding and approving when the payment is done
 
 
+## Future Steps to be taken:
+
 ### Community App feature  -> Location Service: Let your network know about your position. Notify your network about your recent location, in case you moved recently. Also, let the members of the community application know that you newly moved to their location.
 
 ### Community App feature -> Hostel or room search for GHC
